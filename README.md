@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a SQL Server performance consultant building SQLWATCH - Open Source SQL Server Monitoring framework 
+I am a SQL Server performance consultant building [SQLWATCH](https://sqlwatch.io) - Open Source SQL Server Monitoring framework 
 <!--
 **marcingminski/marcingminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
